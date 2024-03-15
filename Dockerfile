@@ -1,2 +1,2 @@
-FROM alfio/alf.io:2.0-M4-2304
+FROM rajdeepv/alf.io:food
 EXPOSE 8080
